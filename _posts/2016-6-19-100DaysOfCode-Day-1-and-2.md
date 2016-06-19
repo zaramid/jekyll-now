@@ -1,9 +1,10 @@
 ---
 layout: post
-title: #100DaysOfCode Day 1 and 2 - just started!
+title: 100DaysOfCode Day 1 and 2 - just started!
 ---
 Yesterday 18-06-2016 I have started my **100DaysOfCode**.
-To learn more about Git, GitHub and GitHub Pages, I decided to create my here first blog. Yesterday I did it just using GitHub Pages, but today I have found article at https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/ and recreated it using also [Jekyll](https://jekyllrb.com/). 
+To learn more about Git, GitHub and GitHub Pages, I decided to create my here first blog. Yesterday I did it just using GitHub Pages, but today I have found an interesting article at [Smashing Magazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/) and recreated it using also [Jekyll](https://jekyllrb.com/). 
+
 It took a lot of time, but it is a good start point to become familiar better with all this "Git" stuff.
 This blog will change many times I suppose. 
 The next step will be local Jekyll installation and making posts on my local repository.
