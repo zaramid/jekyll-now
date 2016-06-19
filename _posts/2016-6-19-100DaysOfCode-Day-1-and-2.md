@@ -11,7 +11,7 @@ This blog will change many times I suppose.
 The next step will be local Jekyll installation and making posts on my local repository.
 
 Why did I started this challenge?
-I have read [article](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4#.lw0vs8mz7) written by Alexander Kallaway and decided to join. I learn code with help of [Free Code Camp](https://www.freecodecamp.com) since April 2016 and I need a "way" to go faster with this. I hope the **100DaysOfCode** will give me a kick :smiley: 
+I have read [article](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4#.lw0vs8mz7) written by Alexander Kallaway and decided to join. I learn code with help of [Free Code Camp](https://www.freecodecamp.com) since April 2016 and I need a "way" to go faster with this. I hope the **100DaysOfCode** will give me a kick.
 
 I want to make post everyday and describe what I have done.
 So keep going!
